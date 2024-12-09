@@ -37,6 +37,10 @@ padding-right: 3%;
     margin: 0; /* Removes default margin around the body */
     flex-direction: column;
 }
+#list{
+    background-color: white;
+  color: rgb(20, 28, 10);
+  font-family: Arial, sans-serif;
 #yes{
     display: flex;
     justify-content: center; /* Horizontally centers the content */
